@@ -1,0 +1,9 @@
+.env
+.vscode
+.vs
+log.txt
+newsfeed_backup.dump
+bin 
+obj
+wwwroot/Files
+.git
